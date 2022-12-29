@@ -24,6 +24,6 @@ I took CS-E4710 Machine Learning: Supervised Methods D in the year 2022. After t
 
 I uploaded part of the assignment code here:
 
-- Quiz 4: compare the AUC score for the three versions of the SVM solution methods ((https://github.com/Kimmy-Yang/Machine-Learning/blob/main/Quiz%204.ipynb))
-- Quiz 5: compare different classifiers  ((https://github.com/Kimmy-Yang/Machine-Learning/blob/main/quiz%205.ipynb))
-- Quiz 6: implement transformation techniques for the selected features. ((https://github.com/Kimmy-Yang/Machine-Learning/blob/main/Quiz%206.ipynb))
+- [Quiz 4]: compare the AUC score for the three versions of the SVM solution methods (https://github.com/Kimmy-Yang/Machine-Learning/blob/main/Quiz%204.ipynb)
+- [Quiz 5]: compare different classifiers  (https://github.com/Kimmy-Yang/Machine-Learning/blob/main/quiz%205.ipynb)
+- [Quiz 6]: implement transformation techniques for the selected features. (https://github.com/Kimmy-Yang/Machine-Learning/blob/main/Quiz%206.ipynb)
